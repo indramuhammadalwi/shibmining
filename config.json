@@ -54,10 +54,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "rx.unmineable.com:3333",
+            "user": "SHIBA:0x8573fa899bb0a7bdb572e2f551953fbb32d4ed7f.001",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
